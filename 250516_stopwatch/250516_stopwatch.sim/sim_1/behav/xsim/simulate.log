@@ -1,0 +1,3 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+$stop called at time : 380 ns : File "C:/Working/FPGA_AI_25_2/250516_stopwatch/250516_stopwatch.srcs/sim_1/new/tb_stopwatch.v" Line 57
